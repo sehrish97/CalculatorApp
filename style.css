@@ -1,0 +1,47 @@
+.main{
+    background-color: rgb(48, 204, 95);
+    border: 2px solid grey;
+    width: 200px;
+    border-radius: 3%;
+    margin: 0 auto;
+
+
+}
+.result{
+    width: 96%;
+    justify-content: space-around;
+    background-color: rgb(133, 245, 133);
+}
+.btn{
+    width: 34px;
+    justify-content: space-around;
+    margin-left: 2px;
+    margin-top: 2px;
+    border-radius: 50%;
+    border-color: rgb(237, 240, 237);
+    font-weight: bold; 
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 1px 2px 2px rgb(220, 236, 227);
+ 
+}
+button:focus{
+    background-color: wheat;
+}
+#abc{
+    width: 56%;
+    margin-left: 3px;
+    
+}
+p{
+    text-decoration-line: underline;
+    font-size: 7px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    color: rgb(8, 141, 14);
+    text-decoration-line: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
